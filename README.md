@@ -1,4 +1,4 @@
-<h1>British Airways Customer Satisfaction Dashboard</h1>
+<h1>British Airways Review</h1>
 <br>
 <h2>Project Overview</h2>
 <br>
